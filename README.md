@@ -9,7 +9,7 @@
 
 <h4>Project is being built under the supervision of:</h4> Saurav Kumar Singh, Assistant Professor (Grade-I)
 
-<h4>Team Members:</h4>
+#### Team Members:
 - Avnie Agarwal		[221030115]
 - Nitin Kumar		[221030201]
 - Saanch Sapra		[221030441]
@@ -41,7 +41,7 @@ bun dev
 
 After running the server open [http://localhost:3000](http://localhost:3000) in your browser.
 
-**Currently only the frontend is functioning fully, README will be update to reflect teh backend erver updates.**
+**Currently only the frontend is functioning fully, README will be update to reflect the backend server updates.**
 
 ---
 *This project uses the version management system (git) to streamline the workflow, add features and to test the features, and for collaboration.* 
