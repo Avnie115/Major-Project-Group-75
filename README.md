@@ -41,7 +41,7 @@ bun dev
 
 After running the server open [http://localhost:3000](http://localhost:3000) in your browser.
 
-**Currently only the frontend is functioning fully, README will be update to reflect teh backend erver updates.**
+**Currently only the frontend is functioning fully, README will be update to reflect the backend server updates.**
 
 ---
 *This project uses the version management system (git) to streamline the workflow, add features and to test the features, and for collaboration.* 
