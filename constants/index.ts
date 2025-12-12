@@ -32,6 +32,22 @@ export const recentSessions = [
   },
   {
     id: "2",
+    subject: "science",
+    name: "Atom the Quantum Physicist",
+    topic: "Atomic Structure & Electron Configuration",
+    duration: 40,
+    color: "#E5D0FF",
+  },
+  {
+    id: "3",
+    subject: "science",
+    name: "Bio the Life Scientist",
+    topic: "Photosynthesis & Cellular Respiration",
+    duration: 35,
+    color: "#E5D0FF",
+  },
+  {
+    id: "4",
     subject: "maths",
     name: "Countsy the Number Wizard",
     topic: "Derivatives & Integrals",
@@ -39,7 +55,7 @@ export const recentSessions = [
     color: "#FFDA6E",
   },
   {
-    id: "3",
+    id: "5",
     subject: "language",
     name: "Verba the Vocabulary Builder",
     topic: "English Literature",
@@ -47,7 +63,7 @@ export const recentSessions = [
     color: "#BDE7FF",
   },
   {
-    id: "4",
+    id: "6",
     subject: "coding",
     name: "Codey the Logic Hacker",
     topic: "Intro to If-Else Statements",
@@ -55,7 +71,7 @@ export const recentSessions = [
     color: "#FFC8E4",
   },
   {
-    id: "5",
+    id: "7",
     subject: "history",
     name: "Memo, the Memory Keeper",
     topic: "World Wars: Causes & Consequences",
@@ -63,7 +79,7 @@ export const recentSessions = [
     color: "#FFECC8",
   },
   {
-    id: "6",
+    id: "8",
     subject: "economics",
     name: "The Market Maestro",
     topic: "The Basics of Supply & Demand",
